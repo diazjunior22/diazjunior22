@@ -1,6 +1,5 @@
 
-# JUNIOR 
-
+<img width="3780" height="1890" alt="Banner Revista de Moda Elegante Negro" src="https://github.com/user-attachments/assets/9a0c22fa-aed5-4644-b031-8148d4db0b06" />
 A brief description of what this project does and who it's for
 
 👋 Hola, soy Junior Diaz
