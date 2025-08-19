@@ -1,7 +1,6 @@
 
-<img width="3780" height="1890" alt="Banner Revista de Moda Elegante Negro" src="https://github.com/user-attachments/assets/9a0c22fa-aed5-4644-b031-8148d4db0b06" />
-A brief description of what this project does and who it's for
-
+<img width="1200" height="480" alt="Verde Neón Futurista Banner para Twitch" src="https://github.com/user-attachments/assets/411a29a3-624d-4cb4-94e7-aebcaffb3af7" />
+<br>
 👋 Hola, soy Junior Diaz
 
 Soy un programador en formación que está aprendiendo Python, Django y PostgreSQL.
